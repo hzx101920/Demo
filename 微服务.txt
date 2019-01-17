@@ -1,0 +1,9 @@
+
+https://blog.csdn.net/tototuzuoquan/article/details/78167839
+
+快速创建SpringBoot项目至少可以通过两种方式： 
+
+1、使用http://start.spring.io/网页版的创建
+2、使用IDEA创建（dev、web）
+
+IdeaProjects
